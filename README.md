@@ -1,1 +1,1 @@
-# Day-3-Mini-Project
+# Mini-Project
